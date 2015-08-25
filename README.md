@@ -7,6 +7,7 @@ Material del curso "Aplicaciones Móviles"
 * Experiencia programación en algún lenguaje de programación importante, como Lenguaje C, C++, Java, Python, Javascript, etc.
 * Computadora Apple Mac con OS X
 * Cuenta Twitter, Github, iTunes
+* Software: editor Atom, Sublime, Komodo, Notepad++, etc.
 
 ## Horario: Martes y Jueves 4:15 - 5:45pm
 
