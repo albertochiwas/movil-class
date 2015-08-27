@@ -1,5 +1,7 @@
 # Desarrollo de Aplicaciones Móviles
 
+This page: http://tiny.cc/movil-class
+
 ## Objetivo
 Desarrollar aplicaciones móviles en la plataforma Web y iOS
 
