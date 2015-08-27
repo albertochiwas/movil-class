@@ -29,7 +29,8 @@ Desarrollar aplicaciones móviles en la plataforma Web y iOS
 Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 
 ## Bibliografía
-1. El lenguaje de programación Swift (iTunes & iBooks)
+1. Libro de texto (Web): [Building Front-End Web Apps with Plain JavaScript](https://twitter.com/allsecretcoding/status/636432456804077568) 
+2. El lenguaje de programación Swift (iTunes & iBooks)
 2. Manual de Processing https://processing.org/  https://processingjs.org/
 3. Manual de Javascript
 
