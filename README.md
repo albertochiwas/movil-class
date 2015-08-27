@@ -33,7 +33,9 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 
 ## Software
 * [Editor Atom](https://atom.io/)
+* [Komodo Edit](http://komodoide.com/komodo-edit/)
 * [Inkscape Editor](https://inkscape.org/es/descargas/)
+* [XQuartz](http://xquartz.macosforge.org/landing)
 * [Xcode 7](http://developer.apple.com)
 * [Processing 3](http://processing.org/download)
 * [Processing JS](http://processingjs.org/download)
@@ -42,6 +44,14 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [jQuery](https://jquery.com/)
 
 ## Actividad Marionetas
-* Carpeta puppet en servidor con [http://podcast.itch.edu.mx/puppets](imágenes SVG) (agrupar)
-* Manual "[Proceso de elaboración de una Marioneta Digital](http://podcast.itch.edu.mx/puppets/ManualElaboracionMarionetaDigital.pdf)" 
+Con la imagen SVG de la marioneta asignada usando Inkscape defina los grupos necesarios para articular correctamente una marioneta programable siguiendo las indicaciones del manual (PDF).
+* Carpeta con [imágenes de marionetas en SVG](http://podcast.itch.edu.mx/puppets)
+* Manual PDF "[Proceso de elaboración de una Marioneta Digital](http://podcast.itch.edu.mx/puppets/ManualElaboracionMarionetaDigital.pdf)" 
 
+## Premio Apps
+Fundación Telefónica te invita a participar en el “Premio Apps” que reconocerá a los jóvenes entre 18 y 30 años que realicen las mejores **aplicaciones educativas** de apoyo para profesores y/o alumnos de **educación básica** utilizando *Android*, *FirefoxOS*, *iOS* y *Windows Phone*.
+- Link: http://www.premioappstelefonica.com/es/convocatoria.html
+- Patrocinador: Fundación Telefónica Movistar
+- Premios: **1er lugar**: $100,000, **2º lugar**: $80,000, **3er lugar**: Viaje a oficinas de Qualcomm, San Diego 
+- Convocatoria: [PDF](http://www.premioappstelefonica.com/Bases_PremioApps.pdf)
+- Fecha limite registro: Viernes 4 de septiembre
