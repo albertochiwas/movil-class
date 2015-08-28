@@ -46,7 +46,7 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [Scala.js](http://www.scala-js.org/)
 * [jQuery](https://jquery.com/)
 
-## Actividad Marionetas
+## Curso de Javascript / Processing
 [Curso en linea de Processing en Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
 
 ## Actividad Marionetas
