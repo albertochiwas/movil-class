@@ -47,10 +47,14 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [jQuery](https://jquery.com/)
 
 ## Actividad Marionetas
+[Curso en linea de Processing en Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+
+## Actividad Marionetas
 Con la imagen SVG de la marioneta asignada usando Inkscape defina los grupos necesarios para articular correctamente una marioneta programable siguiendo las indicaciones del manual (PDF).
 * Carpeta con [imágenes de marionetas en SVG](http://podcast.itch.edu.mx/puppets)
 * Manual PDF "[Proceso de elaboración de una Marioneta Digital](http://podcast.itch.edu.mx/puppets/ManualElaboracionMarionetaDigital.pdf)" 
 * Scripts de prueba del API de las marionetas programables [GitHubGist](https://gist.github.com/albertochiwas)
+* [Ambiente de las marionetas programables] (http://podcast.itch.edu.mx/live-editor/)
 
 ## Premio Apps
 Fundación Telefónica te invita a participar en el “Premio Apps” que reconocerá a los jóvenes entre 18 y 30 años que realicen las mejores **aplicaciones educativas** de apoyo para profesores y/o alumnos de **educación básica** utilizando *Android*, *FirefoxOS*, *iOS* y *Windows Phone*.
