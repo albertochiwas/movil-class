@@ -46,8 +46,9 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [Scala.js](http://www.scala-js.org/)
 * [jQuery](https://jquery.com/)
 
-## Curso de Javascript / Processing
-[Curso en linea de Processing en Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+## Curso y Ejercicios de Javascript / Processing
+* [Curso en linea de Processing en Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+* [Ejemplos y Ejercicios en Gist](https://gist.github.com/albertochiwas)
 
 ## Actividad Marionetas
 Con la imagen SVG de la marioneta asignada usando Inkscape defina los grupos necesarios para articular correctamente una marioneta programable siguiendo las indicaciones del manual (PDF).
