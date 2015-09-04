@@ -31,8 +31,12 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 ## Bibliografía
 1. Libro de texto (Web): [Building Front-End Web Apps with Plain JavaScript](https://twitter.com/allsecretcoding/status/636432456804077568) 
 2. [El lenguaje de programación Swift] (https://itunes.apple.com/mx/book/swift-programming-language/id1002622538?mt=11)
-2. Manual de Processing https://processing.org/  https://processingjs.org/
-3. Manual de Javascript
+3. Manual de Processing
+  * https://processing.org/
+  * https://processingjs.org/
+4. Referencias para Javascript
+  * [Referencia de Javascript 1.5](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * [Especificación Lenguaje ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/) [PDF](http://www.ecmascript.org/docs.php)
 
 ## Software
 * [Editor Atom](https://atom.io/)
