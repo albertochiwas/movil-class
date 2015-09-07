@@ -34,9 +34,11 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 3. Manual de Processing
   * https://processing.org/
   * https://processingjs.org/
-4. Referencias para Javascript
-  * [Referencia de Javascript 1.5](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-  * [Especificación Lenguaje ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/) [PDF](http://www.ecmascript.org/docs.php)
+4. Libros sobre Javascript
+  * Libro Gratis: [Eloquent JavaScript](http://eloquentjavascript.net) [PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+  * Libro Gratis: [Building Front-End Web Apps with Plain JavaScript](http://t.co/Y03OAX09hr)
+  * Referencia: [Javascript 1.5](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * Referencia: [Especificación ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/) [PDF](http://www.ecmascript.org/docs.php)
 
 ## Software
 * [Editor Atom](https://atom.io/)
