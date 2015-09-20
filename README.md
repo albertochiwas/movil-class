@@ -3,7 +3,7 @@
 This page: http://tiny.cc/movil-class
 
 ## Objetivo
-Desarrollar aplicaciones móviles en la plataforma Web y iOS
+Desarrollar aplicaciones móviles en la plataforma Web (y/o iOS)
 
 ## Requisitos
 * Experiencia programación en algún lenguaje de programación importante, como Lenguaje C, C++, C#, Java, Python, Javascript, etc.
@@ -12,14 +12,20 @@ Desarrollar aplicaciones móviles en la plataforma Web y iOS
 * Instalar software: editor Atom, Sublime, Komodo, Notepad++, etc.
 
 ## Horario
-  Martes y Jueves 4:15 - 5:45pm
+  Martes y Jueves 16:15-5:45 hrs; Lunes y Sabado 11-13 hrs; Jueves 18-21 hrs.
 
 ## Contenido
 
 ### Parte I
 1. Repaso Aplicaciones Web: HTML, CSS, JS, SVG
+     1.1. HTML & XML syntax, spec, sections, tags & layouts
+     1.2. CSS
+     1.3. Javascript & DOM
+     1.4. SVG
 2. Repaso lenguaje de programación Processing
-
+     2.1. JS to Java
+     2.2. Install, environment, program struct
+     2.3. Classes and objects
 ### Parte II
 3. Introducción Ambiente desarrollo Xcode
 4. Introducción a Swift
@@ -52,9 +58,11 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [Scala.js](http://www.scala-js.org/)
 * [jQuery](https://jquery.com/)
 
-## Curso y Ejercicios de Javascript / Processing
+## Curso, Noticias, Ejercicios y Proyectos
+* [Noticias en Twitter](http://twitter.com/beto0303) (vía follow, retweet, favorite)
 * [Curso en linea de Processing en Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
-* [Ejemplos y Ejercicios en Gist](https://gist.github.com/albertochiwas)
+* [Ejercicios en Gist](https://gist.github.com/albertochiwas) (vía fork, follow, star)
+* [Proyectos en GitHub](https://github.com/albertochiwas) (vía brach, follow, star)
 
 ## Actividad Marionetas
 Con la imagen SVG de la marioneta asignada usando Inkscape defina los grupos necesarios para articular correctamente una marioneta programable siguiendo las indicaciones del manual (PDF).
@@ -63,10 +71,3 @@ Con la imagen SVG de la marioneta asignada usando Inkscape defina los grupos nec
 * Scripts de prueba del API de las marionetas programables [GitHubGist](https://gist.github.com/albertochiwas)
 * [Ambiente de las marionetas programables] (http://podcast.itch.edu.mx/live-editor/)
 
-## Premio Apps
-Fundación Telefónica te invita a participar en el “Premio Apps” que reconocerá a los jóvenes entre 18 y 30 años que realicen las mejores **aplicaciones educativas** de apoyo para profesores y/o alumnos de **educación básica** utilizando *Android*, *FirefoxOS*, *iOS* y *Windows Phone*.
-- Link: http://www.premioappstelefonica.com/es/convocatoria.html
-- Patrocinador: Fundación Telefónica Movistar
-- Premios: **1er lugar**: $100,000, **2º lugar**: $80,000, **3er lugar**: Viaje a oficinas de Qualcomm, San Diego 
-- Convocatoria: [PDF](http://www.premioappstelefonica.com/Bases_PremioApps.pdf)
-- Fecha limite registro: Viernes 4 de septiembre
