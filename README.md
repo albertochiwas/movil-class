@@ -61,6 +61,7 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
   * Referencia: [Especificación ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/) [PDF](http://www.ecmascript.org/docs.php)
 
 ## Software
+* Portafolio [Evernote](http://evernote.com)
 * [Editor Atom](https://atom.io/)
 * [Komodo Edit](http://komodoide.com/komodo-edit/)
 * [Inkscape Editor](https://inkscape.org/es/descargas/)
@@ -74,7 +75,7 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 
 ## Curso, Noticias, Ejercicios y Proyectos
 * [Noticias en Twitter](http://twitter.com/beto0303) (vía follow, retweet, favorite)
-* [Curso en linea de Processing en Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+* [Curso en linea de Processing en Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming) (vía suscribe, spin)
 * [Ejercicios en Gist](https://gist.github.com/albertochiwas) (vía fork, follow, star)
 * [Proyectos en GitHub](https://github.com/albertochiwas) (vía brach, follow, star)
 
