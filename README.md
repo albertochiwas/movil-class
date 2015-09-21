@@ -1,5 +1,7 @@
 # Desarrollo de Aplicaciones Móviles
 This page: http://tiny.cc/movil-class
+e-mail: alberto@acm.org
+Twitter: @beto0303
 
 ## Objetivo
 Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
