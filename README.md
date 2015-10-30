@@ -36,10 +36,11 @@ Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
   * Web API
   * JSON
   * jQuery
-  * Underscore JS
-  * Processing JS
+  * [Underscore JS](http://www.json.org/)
+  * [Processing JS](http://processingjs.org/download/)
   * Angular JS
-  * React JS
+  * [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html)
+  * [React JS](http://facebook.github.io/react/)
   * Scala
 
 ### Parte II
