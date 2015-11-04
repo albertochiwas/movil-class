@@ -1,7 +1,7 @@
 # Desarrollo de Aplicaciones Móviles
-This page: http://tiny.cc/movil-class
-e-mail: alberto@acm.org
-Twitter: @beto0303
+  - This page: http://tiny.cc/movil-class
+  - e-mail: alberto@acm.org
+  - Twitter: @beto0303
 
 ## Objetivo
 Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
@@ -32,16 +32,15 @@ Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
   * DX & API Design
   * Study Cases
 3. State of Art Web Technologies
-  * Functional Programming Paradigm
-  * Web API
-  * JSON
-  * jQuery
+  * [JSON](http://json.org)
+  * [jQuery](https://jquery.com/)
   * [Underscore JS](http://www.json.org/)
   * [Processing JS](http://processingjs.org/download/)
-  * Angular JS
+  * [Node.js](https://nodejs.org/en/download/)
   * [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html)
   * [React JS](http://facebook.github.io/react/)
-  * Scala
+  * [Angular JS](https://angularjs.org/)
+  * Web API
 
 ### Parte II
 4. Introducción Ambiente desarrollo Xcode
