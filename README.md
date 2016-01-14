@@ -4,13 +4,13 @@
   - Twitter: [@beto0303](http://twitter.com/beto0303)
 
 ## Objetivo
-Desarrollar aplicaciones móviles usando los entornos y lenguajes más actuales
+Desarrollar aplicaciones para dispositivos móviles usando los entornos y lenguajes más actuales
 
 ## Requisitos
 * Experiencia programación en algún lenguaje de programación importante, como Lenguaje C, C++, C#, Java, Python, Javascript, etc.
 * Recomendable tener acceso a una Computadora Apple Mac con OS X o Linux Ubuntu
-* Cuenta Twitter, Github, iTunes
-* Instalar software: editor Atom, Sublime, Komodo, Notepad++, etc.
+* Cuentas en Twitter, Github, Apple, Microsoft
+* Instalar software: editor Atom, Sublime, Komodo, Notepad++, Swift, Visual Studio, etc.
 
 ## Horario
   Martes y Jueves 17:30-19:00 hrs.
@@ -79,6 +79,7 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 4. Libros sobre Javascript
   * Libro Gratis: [Eloquent JavaScript](http://eloquentjavascript.net) [PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
   * Libro Gratis: [Building Front-End Web Apps with Plain JavaScript](http://t.co/Y03OAX09hr)
+  * Libro Gratis: [El Lenguaje de Programación Swift](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
   * Referencia: [Javascript 1.5](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   * Referencia: [Especificación ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/) [PDF](http://www.ecmascript.org/docs.php)
 
@@ -95,7 +96,7 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [Underscore JS](http://underscorejs.org/)
 * [Scala.js](http://www.scala-js.org/)
 * [jQuery](https://jquery.com/)
-* [Visual Studio])(https://www.visualstudio.com/)
+* [Visual Studio](https://www.visualstudio.com/)
 
 ## Curso, Noticias, Ejercicios y Proyectos
 * [Noticias en Twitter](http://twitter.com/beto0303) (vía follow, retweet, favorite)
