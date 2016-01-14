@@ -1,7 +1,7 @@
 # Dispositivos Móviles
   - This page: http://tiny.cc/movil-class
   - e-mail: alberto@acm.org
-  - Twitter: @beto0303
+  - Twitter: [@beto0303](http://twitter.com/beto0303)
 
 ## Objetivo
 Desarrollar aplicaciones móviles usando los entornos y lenguajes más actuales
