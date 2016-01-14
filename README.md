@@ -20,7 +20,7 @@ Desarrollar aplicaciones móviles usando los entornos y lenguajes más actuales
 1. Repaso Herramientas Web: HTML, CSS, JS, SVG
   * HTML5 & XML syntax, W3C specs, sections, tags & layouts
   * CSS3 & DOM
-  * Javascript w/basic DOM & JSON
+  * Javascript ES6 w/basic DOM & JSON & modern libraries (underscore)
   * Processing JS & Java
   * SVG & PShapes
   * UX & Responsive Design
@@ -39,7 +39,7 @@ Desarrollar aplicaciones móviles usando los entornos y lenguajes más actuales
   * [Node.js](https://nodejs.org/en/download/)
   * [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html)
   * [React JS](http://facebook.github.io/react/)
-  * [Angular JS](https://angularjs.org/)
+  * [JS ES6](http://es6-features.org/)
   * Web API
 
 ### Parte II: Aplicaciones Nativas
