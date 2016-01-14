@@ -95,6 +95,7 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [Underscore JS](http://underscorejs.org/)
 * [Scala.js](http://www.scala-js.org/)
 * [jQuery](https://jquery.com/)
+* [Visual Studio])(https://www.visualstudio.com/)
 
 ## Curso, Noticias, Ejercicios y Proyectos
 * [Noticias en Twitter](http://twitter.com/beto0303) (vía follow, retweet, favorite)
