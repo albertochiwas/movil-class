@@ -1,10 +1,10 @@
-# Desarrollo de Aplicaciones Móviles
+# Dispositivos Móviles
   - This page: http://tiny.cc/movil-class
   - e-mail: alberto@acm.org
   - Twitter: @beto0303
 
 ## Objetivo
-Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
+Desarrollar aplicaciones móviles usando los entornos y lenguajes más actuales
 
 ## Requisitos
 * Experiencia programación en algún lenguaje de programación importante, como Lenguaje C, C++, C#, Java, Python, Javascript, etc.
@@ -16,12 +16,12 @@ Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
   Martes y Jueves 17-18:30 hrs.
 
 ## Contenido
-### Parte I
-1. Repaso Aplicaciones Web: HTML, CSS, JS, SVG
-  * HTML & XML syntax, W3C specs, sections, tags & layouts
-  * CSS
+### Parte I: Aplicaciones Web
+1. Repaso Herramientas Web: HTML, CSS, JS, SVG
+  * HTML5 & XML syntax, W3C specs, sections, tags & layouts
+  * CSS3 & DOM
   * Javascript w/basic DOM & JSON
-  * Processing JS
+  * Processing JS & Java
   * SVG & PShapes
   * UX & Responsive Design
 2. Design & Prototyping
@@ -42,7 +42,7 @@ Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
   * [Angular JS](https://angularjs.org/)
   * Web API
 
-### Parte II
+### Parte II: Aplicaciones Nativas
 4. Introducción Ambiente desarrollo Xcode
   * Instalación y configuración de Xcode
   * Tour introductorio al entorno Xcode
@@ -60,6 +60,12 @@ Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
 6. Programación Orientada a Objetos en Swift
 7. Protocolos y programación funcional en Swift
 8. Desarrollo de aplicaciones iOS
+
+### Parte III: Otros entornos
+9. Introducción Ambiente desarrollo Visual Studio y C#
+  * Instalación y configuración de Visual Studio
+  * Nociones básicas de programación en C#
+
 
 ### Criterios de Evaluación (instrumentos)
 Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
