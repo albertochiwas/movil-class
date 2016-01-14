@@ -13,7 +13,7 @@ Desarrollar aplicaciones móviles usando los entornos y lenguajes más actuales
 * Instalar software: editor Atom, Sublime, Komodo, Notepad++, etc.
 
 ## Horario
-  Martes y Jueves 17-18:30 hrs.
+  Martes y Jueves 17:30-19:00 hrs.
 
 ## Contenido
 ### Parte I: Aplicaciones Web
