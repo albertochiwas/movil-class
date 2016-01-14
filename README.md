@@ -8,12 +8,12 @@ Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
 
 ## Requisitos
 * Experiencia programación en algún lenguaje de programación importante, como Lenguaje C, C++, C#, Java, Python, Javascript, etc.
-* Computadora Apple Mac con OS X
+* Recomendable tener acceso a una Computadora Apple Mac con OS X o Linux Ubuntu
 * Cuenta Twitter, Github, iTunes
 * Instalar software: editor Atom, Sublime, Komodo, Notepad++, etc.
 
 ## Horario
-  Martes y Jueves 16:15-5:45 hrs; Lunes y Sabado 11-13 hrs; Jueves 18-21 hrs.
+  Martes y Jueves 17-18:30 hrs.
 
 ## Contenido
 ### Parte I
@@ -44,8 +44,22 @@ Desarrollar aplicaciones móviles en la plataforma Web (+Java +PS +Swift)
 
 ### Parte II
 4. Introducción Ambiente desarrollo Xcode
+  * Instalación y configuración de Xcode
+  * Tour introductorio al entorno Xcode
+  * Intérprete de comando de línea Swift shell
+  * Programando interactivamente con Swift Playgrounds
+  * Creando proyectos para OS X y iOS
 5. Introducción a Swift
-6. Desarrollo de aplicaciones iOS
+  * Conceptos básicos
+  * Constantes y variables
+  * Tipo de dato opcional
+  * Expresiones y operadores básicos
+  * Instrucciones de control de flujo básicas
+  * Control de flujo avanzado
+  * Funciones y estructuras de datos
+6. Programación Orientada a Objetos en Swift
+7. Protocolos y programación funcional en Swift
+8. Desarrollo de aplicaciones iOS
 
 ### Criterios de Evaluación (instrumentos)
 Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
