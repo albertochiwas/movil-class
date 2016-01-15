@@ -29,27 +29,17 @@ Desarrollar aplicaciones para dispositivos móviles usando los entornos y lengua
   * Install, environment, program struct
   * Visualization, Shapes, classes and objects
   * OOP & UML 2.5
-  * DX & API Design
+  * UX, DX, Web & API Design
   * Study Cases
-3. State of Art Web Technologies
-  * [JSON](http://json.org)
-  * [jQuery](https://jquery.com/)
-  * [Underscore JS](http://www.json.org/)
-  * [Processing JS](http://processingjs.org/download/)
-  * [Node.js](https://nodejs.org/en/download/)
-  * [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html)
-  * [React JS](http://facebook.github.io/react/)
-  * [JS ES6](http://es6-features.org/)
-  * Web API
 
 ### Parte II: Aplicaciones Nativas
-4. Introducción Ambiente desarrollo Xcode
+3. Introducción Ambiente desarrollo Xcode
   * Instalación y configuración de Xcode
   * Tour introductorio al entorno Xcode
   * Intérprete de comando de línea Swift shell
   * Programando interactivamente con Swift Playgrounds
   * Creando proyectos para OS X y iOS
-5. Introducción a Swift
+4. Introducción a Swift
   * Conceptos básicos
   * Constantes y variables
   * Tipo de dato opcional
@@ -57,15 +47,20 @@ Desarrollar aplicaciones para dispositivos móviles usando los entornos y lengua
   * Instrucciones de control de flujo básicas
   * Control de flujo avanzado
   * Funciones y estructuras de datos
-6. Programación Orientada a Objetos en Swift
-7. Protocolos y programación funcional en Swift
-8. Desarrollo de aplicaciones iOS
+  * Protocolos, extensiones
+  * Programación Funcional en Swift
+  * Componentes de una interfaz de usuario
+  * Programación Orientada a Objetos en Swift
+5. Ejemplos de desarrollo de aplicaciones iOS & OS X
 
-### Parte III: Otros entornos
-9. Introducción Ambiente desarrollo Visual Studio y C#
+### Parte III: Tópicos adicionales
+6. Introducción Ambiente desarrollo Visual Studio y C#
   * Instalación y configuración de Visual Studio
   * Nociones básicas de programación en C#
-
+7. Caso de Estudio: IoT
+  * Introducción al Internet de las Cosas
+  * Arquitectura, Protocolos y Componentes
+  * Ejemplo usando sistemas embebidos
 
 ### Criterios de Evaluación (instrumentos)
 Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
@@ -96,6 +91,12 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
 * [Underscore JS](http://underscorejs.org/)
 * [Scala.js](http://www.scala-js.org/)
 * [jQuery](https://jquery.com/)
+* [JSON](http://json.org)
+* [jQuery](https://jquery.com/)
+* [Node.js](https://nodejs.org/en/download/)
+* [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html)
+* [React JS](http://facebook.github.io/react/)
+* [JS ES6](http://es6-features.org/)
 * [Visual Studio](https://www.visualstudio.com/)
 
 ## Curso, Noticias, Ejercicios y Proyectos
