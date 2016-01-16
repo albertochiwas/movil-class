@@ -78,7 +78,15 @@ Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
   * Referencia: [Javascript 1.5](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   * Referencia: [Especificación ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/) [PDF](http://www.ecmascript.org/docs.php)
 
-## Software
+## Hardware
+* [Intel &copy; NUC](http://www.intel.com/content/www/us/en/nuc/overview.html)
+* [Intel &copy; RealSense](http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html)
+* [Intel &copy; Galileo](http://www.intel.com/content/www/us/en/embedded/products/galileo/galileo-overview.html)
+* Raspberry Pi
+* Primesense RGBD camera
+* iOS devices (iPad, iPhone, Apple Watch)
+
+* ## Software
 * Portafolio [Evernote](http://evernote.com)
 * [Editor Atom](https://atom.io/)
 * [Komodo Edit](http://komodoide.com/komodo-edit/)
