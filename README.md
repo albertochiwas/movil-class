@@ -20,16 +20,18 @@ Desarrollar aplicaciones para dispositivos móviles usando los entornos y lengua
 1. Repaso Herramientas Web: HTML, CSS, JS, SVG
   * HTML5 & XML syntax, W3C specs, sections, tags & layouts
   * CSS3 & DOM
-  * Javascript ES6 w/basic DOM & JSON & modern libraries (underscore)
+  * Javascript ES6 w/basic DOM & JSON & modern libraries (underscore.js)
   * Processing JS & Java
-  * SVG & PShapes
-  * UX & Responsive Design
+  * Vector Graphics: SVG & PShapes
+  * Responsive Design
+  * Web APIs
 2. Design & Prototyping
   * JS to Java porting
-  * Install, environment, program struct
+  * PS install, environment, program struct
   * Visualization, Shapes, classes and objects
   * OOP & UML 2.5
-  * UX, DX, Web & API Design
+  * UX/DX Design
+  * API Design
   * Study Cases
 
 ### Parte II: Aplicaciones Nativas
@@ -47,7 +49,7 @@ Desarrollar aplicaciones para dispositivos móviles usando los entornos y lengua
   * Instrucciones de control de flujo básicas
   * Control de flujo avanzado
   * Funciones y estructuras de datos
-  * Protocolos, extensiones
+  * Protocolos y Extensiones
   * Programación Funcional en Swift
   * Componentes de una interfaz de usuario
   * Programación Orientada a Objetos en Swift
