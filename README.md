@@ -1,4 +1,4 @@
-# Dispositivos Móviles
+# Desarrollo de Aplicaciones Móviles
   - This page: http://tiny.cc/movil-class
   - e-mail: alberto@acm.org
   - Twitter: [@beto0303](http://twitter.com/beto0303)
@@ -13,7 +13,7 @@ Desarrollar aplicaciones para dispositivos móviles usando los entornos y lengua
 * Instalar software: editor Atom, Sublime, Komodo, Notepad++, Swift, Visual Studio, etc.
 
 ## Horario
-  Martes y Jueves 17:30-19:00 hrs.
+ Sábado 11-14 hrs.
 
 ## Contenido
 ### Parte I: Aplicaciones Web
@@ -54,15 +54,6 @@ Desarrollar aplicaciones para dispositivos móviles usando los entornos y lengua
   * Componentes de una interfaz de usuario
   * Programación Orientada a Objetos en Swift
 5. Ejemplos de desarrollo de aplicaciones iOS & OS X
-
-### Parte III: Tópicos adicionales
-6. Introducción Ambiente desarrollo Visual Studio y C#
-  * Instalación y configuración de Visual Studio
-  * Nociones básicas de programación en C#
-7. Caso de Estudio: IoT
-  * Introducción al Internet de las Cosas
-  * Arquitectura, Protocolos y Componentes
-  * Ejemplo usando sistemas embebidos
 
 ### Criterios de Evaluación (instrumentos)
 Consultar rúbricas [AQUÍ](http://podcast.itch.edu.mx/master-rubric/)
